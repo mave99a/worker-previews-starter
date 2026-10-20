@@ -28,8 +28,8 @@
 		"d1_databases": [
 			{
 				"binding": "DB",
-				"database_id": "1c7a3ab5-af9c-4464-ad36-b15094f241f7",
-				"database_name": "workshop-preview-db"
+				"database_id": "8eaa4a0a-a065-49c9-89b0-be8278c8d524",
+				"database_name": "workshop-staging2-db"
 			}
 		],
 		"observability": {
