@@ -1,0 +1,12 @@
+// Applies preview-migrations/ to the Preview D1 database only.
+// Must match previews.d1_databases in wrangler.json.
+{
+	"d1_databases": [
+		{
+			"binding": "PREVIEW_DB",
+			"database_id": "1c7a3ab5-af9c-4464-ad36-b15094f241f7",
+			"database_name": "workshop-preview-db",
+			"migrations_dir": "preview-migrations"
+		}
+	]
+}
